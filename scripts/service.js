@@ -1,1 +1,1 @@
-console.log("This is a functioning service.");
+console.log("We bundled this a long time ago.");
